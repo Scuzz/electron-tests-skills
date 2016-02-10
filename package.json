@@ -1,0 +1,17 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node tests/yourTestCode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "electron-prebuilt": "^0.36.2",
+    "selenium-webdriver": "^2.48.2",
+    "webdriverio": "^3.4.0"
+  }
+}
